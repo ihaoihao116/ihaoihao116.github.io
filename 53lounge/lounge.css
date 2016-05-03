@@ -1,0 +1,20 @@
+  p.gu{ width: 30%;
+          padding:10%;
+          line-height: 40px;
+          text-align: center;
+          padding-left:10%;
+          border-color: black;
+          border-width: 1px;
+          background-color: #a7cece;
+          border: dashed 1px #ffffff;
+          margin:auto;
+          margin-top:50px;
+          margin-bottom:100px;
+      background-image: url(images/big-baseball-ball.png);
+      background-position: top left;
+      background-repeat: no-repeat;
+
+
+
+
+     }
